@@ -11,6 +11,11 @@ The Wildlife Project is a web-based platform designed to provide information and
 - Contact and About Us pages
 - Responsive design for desktop and mobile
 
+## Technologies Used
+- HTML: Structure
+- CSS: Styling (including responsive design)
+- JavaScript: Interactivity 
+
 ## Folder Structure
 - `index.html` — Main entry point
 - `blogs/` — Blog articles and related content
